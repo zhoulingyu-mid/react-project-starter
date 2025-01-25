@@ -9,4 +9,5 @@ export default defineConfig({
       src: "/src",
     },
   },
+  base: "/react-project-starter/"
 })
